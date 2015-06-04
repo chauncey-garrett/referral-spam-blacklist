@@ -71,4 +71,5 @@ cat << EOF >> "$dest"
 EOF
 
 rm "$tmp"
+rm "$src"
 
