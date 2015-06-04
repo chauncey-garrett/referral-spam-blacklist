@@ -1,0 +1,3 @@
+[submodule "external/piwik-referrer-spam-blacklist"]
+	path = external/piwik-referrer-spam-blacklist
+	url = https://github.com/piwik/referrer-spam-blacklist.git
