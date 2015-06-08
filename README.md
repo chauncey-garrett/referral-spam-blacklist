@@ -42,6 +42,14 @@ To use it, any additional lists should be named `blacklist-name1.txt` and `black
 
 The newly generated `blacklist.conf` will be located in the root of the git repo.
 
+## Testing the blacklist works
+
+Check that the proper response (403) is given with:
+
+```sh
+curl --referer "http://www.spam.com" http://yoursite.com
+```
+
 ## Blacklist contributions
 
 Contributions to the blacklist itself should be directed to [piwik/referrer-spam-blacklist](https://github.com/piwik/referrer-spam-blacklist).

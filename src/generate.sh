@@ -51,8 +51,6 @@ cat << EOF > "$dest"
 #
 
 map \$http_referer \$bad_referer {
-    hostnames;
-
     default 0;
 
     # referral spam TLDs
@@ -61,7 +59,7 @@ EOF
 # insert each spammer to block
 while read line
 do
-	echo "    .$line 1;" >> "$dest"
+	echo "    \"~*$line\" 1;" >> "$dest"
 done < "$tmp"
 
 # close the map block
