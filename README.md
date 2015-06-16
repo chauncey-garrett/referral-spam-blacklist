@@ -24,7 +24,7 @@ Add the following to each `/etc/nginx/site-available/your-site.conf` that needs 
 
 ```conf
 server {
-	if($bad_referer) {
+	if ($bad_referer) {
 		return 444;
 	}
 }

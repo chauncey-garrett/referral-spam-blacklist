@@ -41,7 +41,7 @@ cat << EOF > "$dest"
 #
 # Add the following to /etc/nginx/site-available/your-site.conf inside 'server { ... }':
 #
-#     if($bad_referer) {
+#     if ($bad_referer) {
 #         return 444;
 #     }
 #
