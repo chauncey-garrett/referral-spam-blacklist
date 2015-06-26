@@ -77,15 +77,21 @@ curl --referer "http://www.referral-spam.com" http://yoursite.com
 
 Contributions to the blacklist itself should be directed to [piwik/referrer-spam-blacklist](https://github.com/piwik/referrer-spam-blacklist).
 
-If you know of another (vetted) referral spam blacklist that should be considered as well, please let me know by opening an issue.
+If you know of another (vetted) referral spam blacklist that should be considered as well, please let me know by [opening an issue](https://github.com/chauncey-garrett/referral-spam-blacklist/issues).
 
 ## Like it?
 
-If you have feature suggestions, please open an [issue](https://github.com/chauncey-garrett/referral-spam-blacklist/issues "chauncey-garrett/referral-spam-blacklist/issues"). If you have contributions, open a [pull request](https://github.com/chauncey-garrett/referral-spam-blacklist/pulls "chauncey-garrett/referral-spam-blacklist/pulls"). I appreciate any and all feedback.
+If you've found this project useful, would you consider sending your support?
 
-## Author(s)
+- [Contribute Feedback](https://github.com/chauncey-garrett/referral-spam-blacklist/issues) or a [Pull Request](https://github.com/chauncey-garrett/referral-spam-blacklist/pulls)
+- [Provide Support](http://chauncey.io/donate/)
+- [Give Bitcoin](https://www.coinbase.com/ChaunceyGarrett)
 
-*The author(s) of this module should be contacted via the [issue tracker](https://github.com/chauncey-garrett/referral-spam-blacklist/issues "chauncey-garrett/referral-spam-blacklist/issues").*
+## Author
 
-  - [Chauncey Garrett](https://github.com/chauncey-garrett "chauncey-garrett")
+*The author of this module should be contacted via the [issue tracker](https://github.com/chauncey-garrett/referral-spam-blacklist/issues "chauncey-garrett/referral-spam-blacklist/issues").*
+
+| [![](http://www.gravatar.com/avatar/81e1334c20c8dc25dbf3fee88dc1879c.jpg?s=150&r=g)](http://chauncey.io) |
+| :------------------------------------------------------------------------------------------------------: |
+| [Chauncey Garrett](http://chauncey.io) - [@chauncey_io](http://twitter.com/chauncey_io)                  |
 
